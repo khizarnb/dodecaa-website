@@ -1,0 +1,34 @@
+.elementor-1597 .elementor-element.elementor-element-d3e4ee5{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:40px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-1597 .elementor-element.elementor-element-a7587c0{width:var( --container-widget-width, 67.005% );max-width:67.005%;--container-widget-width:67.005%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 25px / 2 );}.elementor-1597 .elementor-element.elementor-element-a7587c0.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu .elementor-item{font-family:"Inter", Sans-serif;font-size:18px;font-weight:500;}.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-astglobalcolor4 );fill:var( --e-global-color-astglobalcolor4 );}.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-astglobalcolor4 );}.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:25px;}#elementor-popup-modal-1597 .dialog-widget-content{animation-duration:0.5s;background-color:var( --e-global-color-accent );box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-1597{background-color:rgba(0,0,0,.8);justify-content:flex-start;align-items:center;pointer-events:all;}#elementor-popup-modal-1597 .dialog-message{width:300px;height:100vh;align-items:flex-start;padding:0px 20px 0px 20px;}#elementor-popup-modal-1597 .dialog-close-button{display:flex;background-color:#02010100;font-size:18px;}#elementor-popup-modal-1597 .dialog-close-button i{color:var( --e-global-color-text );}#elementor-popup-modal-1597 .dialog-close-button svg{fill:var( --e-global-color-text );}#elementor-popup-modal-1597 .dialog-close-button:hover i{color:var( --e-global-color-text );}#elementor-popup-modal-1597 .dialog-close-button:hover{background-color:#02010100;}@media(max-width:1024px){.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-primary-font-size );}}@media(max-width:767px){.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-primary-font-size );}}/* Start custom CSS for nav-menu, class: .elementor-element-a7587c0 *//* Base styles for the menu item */
+.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-item {
+    position: relative; /* Required for positioning the pseudo-element */
+}
+
+/* Hover effect */
+.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-item:hover::after {
+    content: ''; /* Creates an empty pseudo-element */
+    position: absolute;
+    bottom: 0; /* Position the border at the bottom */
+    left: 0;
+    width: 100%;
+    height: 3px; /* Thickness of the border */
+    background-color: #0287CC; /* Hover color */
+}
+
+/* Active link effect */
+.elementor-1597 .elementor-element.elementor-element-a7587c0 .elementor-item.elementor-item-active::after {
+    content: ''; /* Creates an empty pseudo-element */
+    position: absolute;
+    bottom: 0; /* Position the border at the bottom */
+    left: 0;
+    width: 100%;
+    height: 5px; /* Thickness of the border */
+    background-color: #0287CC; /* Active link color */
+}/* End custom CSS */

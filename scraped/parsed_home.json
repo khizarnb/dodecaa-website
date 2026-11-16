@@ -1,0 +1,680 @@
+{
+  "page": "home",
+  "header": {
+    "logo": [
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png",
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png"
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      },
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "class": [
+        "elementor-element",
+        "elementor-element-da10e42",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Frame-1.png",
+          "alt": "",
+          "class": null
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 1,
+      "class": [
+        "elementor-element",
+        "elementor-element-5f1776f",
+        "elementor-hidden-tablet",
+        "elementor-hidden-mobile",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "2\u00a0Million+",
+        "Mobile Devices\nProcessed Yearly",
+        "50+",
+        "Countries Serviced",
+        "on 6 Continents",
+        "500+",
+        "Retail and Wholesale",
+        "Partners Globally",
+        "20+",
+        "Years in",
+        "Business"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 2,
+      "class": [
+        "elementor-element",
+        "elementor-element-1793471",
+        "elementor-hidden-desktop",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "2\u00a0Million+",
+        "Mobile Devices",
+        "Processed Yearly",
+        "50+",
+        "Countries Serviced\non 6 Continents",
+        "500+",
+        "Retail and Wholesale",
+        "Partners Globally",
+        "20+",
+        "Years in",
+        "Business"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 3,
+      "class": [
+        "elementor-element",
+        "elementor-element-ea80f9a",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Fast Quote",
+        "Send your device list to:",
+        "[email\u00a0protected]",
+        "Logistics",
+        "Free and insured",
+        "courier collection",
+        "Processing",
+        "Processing and data erasure",
+        "within 48 hours",
+        "Reporting",
+        "Data erasure certificates issued. Payment in 48 hours"
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-02.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-31"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-04.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-54"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-03.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-154"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-01.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-52"
+          ]
+        }
+      ],
+      "buttons": [
+        {
+          "text": "[email\u00a0protected]",
+          "href": "/cdn-cgi/l/email-protection",
+          "class": [
+            "__cf_email__"
+          ]
+        }
+      ],
+      "forms": []
+    },
+    {
+      "index": 4,
+      "class": [
+        "elementor-element",
+        "elementor-element-58c5fbe",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "ABOUT US",
+        "At Dodecaa",
+        "At Dodecaa, we stand as a premier distributor of IT hardware, leveraging over two decades of combined expertise in the tech industry. Specializing in comprehensive distribution services, we offer meticulously tested and high-quality IT hardware, covering a wide spectrum from smartphones, networking, cards, memories, processors, laptops,\u00a0 to various other components.",
+        "Explore"
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Frame-6.webp",
+          "alt": "",
+          "class": [
+            "attachment-large",
+            "size-large",
+            "wp-image-520"
+          ]
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Explore",
+          "href": "#",
+          "class": [
+            "elementor-button",
+            "elementor-button-link",
+            "elementor-size-sm"
+          ]
+        }
+      ],
+      "forms": []
+    },
+    {
+      "index": 5,
+      "class": [
+        "elementor-element",
+        "elementor-element-85b3a1c",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [],
+      "images": [
+        {
+          "src": null,
+          "alt": "Vector-1",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-3",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Vector",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-2",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-6",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-1",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-5",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        },
+        {
+          "src": null,
+          "alt": "Group-4",
+          "class": [
+            "swiper-slide-image",
+            "swiper-lazy"
+          ]
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 6,
+      "class": [
+        "elementor-element",
+        "elementor-element-647ccc5",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "WHY CHOOSE US",
+        "Our Process",
+        "Inventory Flow",
+        "We source directly from top carriers, and manufacturers to ensure consistent quantities.",
+        "Long Term",
+        "Relationships",
+        "We focus on providing high quality solutions to our customers all over the world to maintain reliable long-term relationships.",
+        "Global Distributors",
+        "No matter where you are, Our fully experienced staff is available to serve your mobile needs today.",
+        "Well Qualified Staff",
+        "Our fully experienced staff available to serve your needs today.",
+        "Accurate Grading",
+        "All our devices are processed using strict guidelines to ensure the top quality!",
+        "Warranty & Quality",
+        "Assurance",
+        "We offer a 30-day warranty on all used products. Every device is tested using Phone Check."
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-6.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-250"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-7.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-249"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-1.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-42"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-2.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-41"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-3.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-40"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-4.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-39"
+          ]
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 7,
+      "class": [
+        "elementor-element",
+        "elementor-element-ba6707a",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "FAST & SECURE",
+        "Our Partners"
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/DHL-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-336"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/FedEx-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-38"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Dun-and-Bradstreet-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-37"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/UPS-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-36"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/USPS-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-35"
+          ]
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 8,
+      "class": [
+        "elementor-element",
+        "elementor-element-5f335c9",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Premium Refurbished",
+        "Your Trusted Hub for",
+        "Quality Pre-Owned Electronics",
+        "Explore"
+      ],
+      "images": [],
+      "buttons": [
+        {
+          "text": "Explore",
+          "href": "#",
+          "class": [
+            "elementor-button",
+            "elementor-button-link",
+            "elementor-size-sm"
+          ]
+        }
+      ],
+      "forms": []
+    },
+    {
+      "index": 9,
+      "class": [
+        "elementor-element",
+        "elementor-element-2ddba81",
+        "elementor-hidden-tablet",
+        "elementor-hidden-mobile",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Computer Parts",
+        "Top Manufacturers\u00a0for",
+        "Computer Parts",
+        "Laptops",
+        "Top Manufacturers\u00a0for",
+        "Laptops",
+        "Mobile Devices",
+        "Top Manufacturers\u00a0for",
+        "Mobile Devices"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 10,
+      "class": [
+        "elementor-element",
+        "elementor-element-138a596",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Computer Parts",
+        "Top Manufacturers\u00a0for Computer Parts",
+        "Laptops",
+        "Top Manufacturers\u00a0for Laptops",
+        "Mobile Devices",
+        "Top Manufacturers\u00a0for Mobile Devices"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    }
+  ],
+  "footer": {
+    "text": [
+      "Contact us today to discuss your needs and discover how we can help!",
+      "Contact Us",
+      "At Dodecaa, we're not just a distributor we're your trusted partner in procuring top-notch IT hardware solutions.",
+      "About",
+      "Home",
+      "About Us",
+      "Products",
+      "Contact us",
+      "Quick Links",
+      "Buy from us",
+      "Sell to us",
+      "Terms and Conditions",
+      "Contact us",
+      "12315 Darc Drest De, STE# 160, Stafford, TX 71227",
+      "+1021458913134946",
+      "[email\u00a0protected]",
+      "\u00a9 2026 \u2014 Dodecaa. All Rights Reserved."
+    ],
+    "links": [
+      {
+        "text": "Contact Us",
+        "href": "#"
+      },
+      {
+        "text": "[email\u00a0protected]",
+        "href": "/cdn-cgi/l/email-protection"
+      }
+    ],
+    "images": [
+      "https://dodecaa.com/wp-content/uploads/2025/01/dode-white-logo.png"
+    ]
+  }
+}

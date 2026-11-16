@@ -1,0 +1,429 @@
+{
+  "page": "about",
+  "header": {
+    "logo": [
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png",
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png"
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      },
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "class": [
+        "elementor-element",
+        "elementor-element-bf64fd7",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "About Us",
+        "At Dodecaa, we stand as a premier distributor of IT hardware, leveraging over two decades of combined expertise in the tech industry. Specializing in comprehensive distribution services, we offer meticulously tested and high-quality IT hardware, covering a wide spectrum from smartphones, networking, cards, memories, processors, laptops,\u00a0 to various other components. Our dedication to excellence resonates through our commitment to delivering superior product quality, exceptional customer service, and a sustainable approach.",
+        "As a trusted name in the industry, we cater to both national and international markets, providing competitive prices to distributors worldwide. Our extensive inventory ensures that we have something for everyone, whether you\u2019re seeking budget-friendly bulk deals on specific part number or seeking a reliable wholesaler in the USA."
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 1,
+      "class": [
+        "elementor-element",
+        "elementor-element-5cc57c6",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Our streamlined processes ensure a seamless experience for our customers, from easy ordering and payment methods to prompt shipping and dependable after-sales support. Every item in our inventory undergoes rigorous grading, quality control, and testing before it\u2019s made available for purchase, guaranteeing the highest standards of reliability and performance.",
+        "At",
+        "Dodecaa",
+        ", we\u2019re not just a distributor; we\u2019re your trusted partner in procuring top-notch IT hardware solutions.",
+        "At",
+        "Dodecaa",
+        ", we specialize in creating, executing, and delivering tailored programs and initiatives that ensure maximum ROI while meeting the specific needs of each client, both economically and environmentally. As a B2B supplier of IT hardware, we prioritize sustainability and the reduction of electronic waste.",
+        "We collaborate with trade-in suppliers, pre-owned device distributors, and second-hand phone distributors to curate a reliable supply of used devices. These devices undergo thorough refurbishment before being made available to our clients at competitive prices. Our commitment to sustainability extends to our entire product range, which includes not only mobile phones and tablets but also hard drives, solid-state drives, network storage devices, storage controllers, tape drives, switches, transceivers, routers, network interface adapters, wired networking equipment, network firewalls, IP phones, UPS units, processors, and much more.",
+        "At",
+        "Dodecaa",
+        ", we take our role as a wholesale distributor seriously. Our team of qualified staff meticulously grades and tests every device, backed by a 30-day warranty on all used products. We prioritize building long-term relationships with our clients through exceptional customer service and support, ensuring a seamless experience in meeting their inventory needs.",
+        "We go beyond being just a distributor; we\u2019re committed to providing comprehensive solutions and helping our clients navigate the complexities of the IT hardware landscape. With our expertise and dedication to sustainability, we\u2019re the preferred partner for those seeking a reliable source of secondary IT devices. Contact us today to discover how",
+        "Dodecaa",
+        "can empower your business with quality IT hardware solutions."
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 2,
+      "class": [
+        "elementor-element",
+        "elementor-element-604b106",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "WHY CHOOSE US",
+        "Our Process",
+        "Inventory Flow",
+        "We source directly from top carriers, and manufacturers to ensure consistent quantities.",
+        "Long Term",
+        "Relationships",
+        "We focus on providing high quality solutions to our customers all over the world to maintain reliable long-term relationships.",
+        "Global Distributors",
+        "No matter where you are, Our fully experienced staff is available to serve your mobile needs today.",
+        "Well Qualified Staff",
+        "Our fully experienced staff available to serve your needs today.",
+        "Accurate Grading",
+        "All our devices are processed using strict guidelines to ensure the top quality!",
+        "Warranty & Quality",
+        "Assurance",
+        "We offer a 30-day warranty on all used products. Every device is tested using Phone Check."
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-6.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-250"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-7.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-249"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-1.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-42"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-2.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-41"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-3.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-40"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Layer_1-4.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-39"
+          ]
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 3,
+      "class": [
+        "elementor-element",
+        "elementor-element-507147e",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "FAST & SECURE",
+        "Our Partners"
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/DHL-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-336"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/FedEx-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-38"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/Dun-and-Bradstreet-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-37"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/UPS-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-36"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/USPS-GSM-Club-1.png",
+          "alt": "",
+          "class": [
+            "attachment-medium",
+            "size-medium",
+            "wp-image-35"
+          ]
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 4,
+      "class": [
+        "elementor-element",
+        "elementor-element-d6dcaef",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Get a Quote",
+        "Sales | Purchasing | Technical Support | General Inquiries"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": [
+        [
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_version",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_locale",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_unit_tag",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_container_post",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_posted_data_hash",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "your-name",
+            "placeholder": "Full Name*"
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "your-email",
+            "placeholder": "Email*"
+          },
+          {
+            "tag": "input",
+            "type": "tel",
+            "name": "your-phone",
+            "placeholder": "Phone*"
+          },
+          {
+            "tag": "input",
+            "type": "url",
+            "name": "your-website",
+            "placeholder": "Website"
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "your-company",
+            "placeholder": "Company Name"
+          },
+          {
+            "tag": "textarea",
+            "type": null,
+            "name": "your-message",
+            "placeholder": "Message"
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": null,
+            "placeholder": null
+          }
+        ]
+      ]
+    }
+  ],
+  "footer": {
+    "text": [
+      "Contact us today to discuss your needs and discover how we can help!",
+      "Contact Us",
+      "At Dodecaa, we're not just a distributor we're your trusted partner in procuring top-notch IT hardware solutions.",
+      "About",
+      "Home",
+      "About Us",
+      "Products",
+      "Contact us",
+      "Quick Links",
+      "Buy from us",
+      "Sell to us",
+      "Terms and Conditions",
+      "Contact us",
+      "12315 Darc Drest De, STE# 160, Stafford, TX 71227",
+      "+1021458913134946",
+      "[email\u00a0protected]",
+      "\u00a9 2026 \u2014 Dodecaa. All Rights Reserved."
+    ],
+    "links": [
+      {
+        "text": "Contact Us",
+        "href": "#"
+      },
+      {
+        "text": "[email\u00a0protected]",
+        "href": "/cdn-cgi/l/email-protection"
+      }
+    ],
+    "images": [
+      "https://dodecaa.com/wp-content/uploads/2025/01/dode-white-logo.png"
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "page": "contact",
+  "header": {
+    "logo": [
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png",
+      "https://dodecaa.com/wp-content/uploads/2026/04/dode-logo.png"
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      },
+      {
+        "text": "Home",
+        "href": "https://dodecaa.com/"
+      },
+      {
+        "text": "About us",
+        "href": "https://dodecaa.com/about-us/"
+      },
+      {
+        "text": "Products",
+        "href": "https://dodecaa.com/products/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://dodecaa.com/contact-us/"
+      },
+      {
+        "text": "Buy from us",
+        "href": "https://dodecaa.com/buy-from-us/"
+      },
+      {
+        "text": "Sell to us",
+        "href": "https://dodecaa.com/sell-to-us/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "class": [
+        "elementor-element",
+        "elementor-element-75ab02b",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Contact us",
+        "Get Your Best",
+        "Quote Now!"
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 1,
+      "class": [
+        "elementor-element",
+        "elementor-element-72a9e0d",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Contact us",
+        "Sales | Purchasing | Technical Support | General Inquiries",
+        "Contact Info",
+        "12315 Darc Drest De, STE#",
+        "160, Stafford, TX 71227",
+        "+1021458913134946",
+        "[email\u00a0protected]",
+        "Monday - Friday 8:00 AM to 5:00 PM",
+        "Saturday - Sunday - Closed."
+      ],
+      "images": [],
+      "buttons": [
+        {
+          "text": "[email\u00a0protected]",
+          "href": "/cdn-cgi/l/email-protection",
+          "class": [
+            "__cf_email__"
+          ]
+        }
+      ],
+      "forms": [
+        [
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_version",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_locale",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_unit_tag",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_container_post",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "_wpcf7_posted_data_hash",
+            "placeholder": null
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "your-name",
+            "placeholder": "Full Name*"
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "your-email",
+            "placeholder": "Email*"
+          },
+          {
+            "tag": "input",
+            "type": "tel",
+            "name": "your-phone",
+            "placeholder": "Phone*"
+          },
+          {
+            "tag": "input",
+            "type": "url",
+            "name": "your-website",
+            "placeholder": "Website"
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "your-company",
+            "placeholder": "Company Name"
+          },
+          {
+            "tag": "textarea",
+            "type": null,
+            "name": "your-message",
+            "placeholder": "Message"
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": null,
+            "placeholder": null
+          }
+        ]
+      ]
+    },
+    {
+      "index": 2,
+      "class": [
+        "elementor-element",
+        "elementor-element-9c4b898",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Our Offices",
+        "Dodecaa, LLC is here to provide you with more information, answer any questions you may have, and create effective solutions tailored to your needs."
+      ],
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "index": 3,
+      "class": [
+        "elementor-element",
+        "elementor-element-62d2167",
+        "e-flex",
+        "e-con-boxed",
+        "wpr-particle-no",
+        "wpr-jarallax-no",
+        "wpr-parallax-no",
+        "wpr-sticky-section-no",
+        "wpr-column-slider-no",
+        "wpr-equal-height-no",
+        "e-con",
+        "e-parent"
+      ],
+      "id": "",
+      "texts": [
+        "Fast Quote",
+        "Send your device list to:",
+        "[email\u00a0protected]",
+        "Logistics",
+        "Free and insured",
+        "courier collection",
+        "Processing",
+        "Processing and data erasure within 48 hours",
+        "Reporting",
+        "Data erasure certificates issued. Payment in 48 hours"
+      ],
+      "images": [
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-02.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-31"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-04.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-54"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-03.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-154"
+          ]
+        },
+        {
+          "src": "https://dodecaa.com/wp-content/uploads/2025/01/ICONS-01.png",
+          "alt": "",
+          "class": [
+            "attachment-thumbnail",
+            "size-thumbnail",
+            "wp-image-52"
+          ]
+        }
+      ],
+      "buttons": [
+        {
+          "text": "[email\u00a0protected]",
+          "href": "/cdn-cgi/l/email-protection",
+          "class": [
+            "__cf_email__"
+          ]
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "footer": {
+    "text": [
+      "Contact us today to discuss your needs and discover how we can help!",
+      "Contact Us",
+      "At Dodecaa, we're not just a distributor we're your trusted partner in procuring top-notch IT hardware solutions.",
+      "About",
+      "Home",
+      "About Us",
+      "Products",
+      "Contact us",
+      "Quick Links",
+      "Buy from us",
+      "Sell to us",
+      "Terms and Conditions",
+      "Contact us",
+      "12315 Darc Drest De, STE# 160, Stafford, TX 71227",
+      "+1021458913134946",
+      "[email\u00a0protected]",
+      "\u00a9 2026 \u2014 Dodecaa. All Rights Reserved."
+    ],
+    "links": [
+      {
+        "text": "Contact Us",
+        "href": "#"
+      },
+      {
+        "text": "[email\u00a0protected]",
+        "href": "/cdn-cgi/l/email-protection"
+      }
+    ],
+    "images": [
+      "https://dodecaa.com/wp-content/uploads/2025/01/dode-white-logo.png"
+    ]
+  }
+}

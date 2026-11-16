@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #0287CC;
+  --color-brand-blue-hover: #0081E4;
+  --color-brand-navy: #00114F;
+  --color-brand-dark: #16171A;
+  --color-brand-gold: #FFBC7D;
+  --color-brand-gray: #F7F7F7;
+  --color-brand-gray-light: #F0F5FA;
+  --color-brand-border: #E2E8F0;
+  
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+  }
+
+  body {
+    color: #16171A;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom button gradient matching original Dodecaa site */
+.btn-dodecaa {
+  background-image: linear-gradient(90deg, #0287CC 0%, #00114F 100%);
+  color: #FFFFFF;
+  transition: all 0.3s ease;
+}
+
+.btn-dodecaa:hover {
+  background-image: linear-gradient(90deg, #0081E4 0%, #02207A 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(2, 135, 204, 0.3);
+}
+
+/* Active navigation link underline */
+.nav-link-active {
+  position: relative;
+}
+
+.nav-link-active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background-color: #0287CC;
+  border-radius: 2px 2px 0 0;
+}
+
+/* Infinite marquee animation */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 25s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #0287CC;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00114F;
+}
